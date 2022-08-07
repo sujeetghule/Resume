@@ -5,7 +5,14 @@
   font-family: "Ubuntu",sans-serif;
   box-sizing: border-box;
 }
+.pdf {
 
+  display:block;
+  align-items: center;
+  justify-content: center;
+
+
+}
 .navbar{
   position: fixed;
   background-color: transparent;
